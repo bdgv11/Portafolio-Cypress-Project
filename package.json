@@ -1,0 +1,27 @@
+{
+  "name": "portafolio-cypress-project",
+  "version": "1.0.0",
+  "description": "Portafolio Cypress Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "./node_modules/cypress/bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdgv11/Portafolio-Cypress-Project.git"
+  },
+  "keywords": [
+    "cypress",
+    "portafolio"
+  ],
+  "author": "Bryan David Guzman Valerin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdgv11/Portafolio-Cypress-Project/issues"
+  },
+  "homepage": "https://github.com/bdgv11/Portafolio-Cypress-Project#readme",
+  "devDependencies": {
+    "cypress": "^9.5.2"
+  }
+}
